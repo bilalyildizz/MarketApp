@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\bin\\Debug",
+    "\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\bin\\Debug\\net7.0",
+    "\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\bin\\Release",
+    "\\src\\Clients\\BlazorWebApp"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}

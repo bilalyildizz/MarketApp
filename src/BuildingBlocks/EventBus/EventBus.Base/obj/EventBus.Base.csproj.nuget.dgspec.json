@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bilal\\source\\repos\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {}
+    "C:\\Users\\BilalYILDIZSmartPuls\\Desktop\\Market Uygulaması\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bilal\\source\\repos\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+    "C:\\Users\\BilalYILDIZSmartPuls\\Desktop\\Market Uygulaması\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bilal\\source\\repos\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "projectUniqueName": "C:\\Users\\BilalYILDIZSmartPuls\\Desktop\\Market Uygulaması\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
         "projectName": "EventBus.Base",
-        "projectPath": "C:\\Users\\bilal\\source\\repos\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-        "packagesPath": "C:\\Users\\bilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bilal\\source\\repos\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
+        "projectPath": "C:\\Users\\BilalYILDIZSmartPuls\\Desktop\\Market Uygulaması\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "packagesPath": "C:\\Users\\BilalYILDIZSmartPuls\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BilalYILDIZSmartPuls\\Desktop\\Market Uygulaması\\MarketApp\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BilalYILDIZSmartPuls\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
